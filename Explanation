@@ -1,9 +1,6 @@
 # Newsletter-Dashboard
 
 The Newsletter Dashboard is a responsive, user-friendly web application that allows users to search and read the latest news articles based on a topic of interest such as sports, technology, or India. The application is built using HTML, CSS, Bootstrap, jQuery, and SweetAlert, ensuring a clean UI, smooth interactions, and informative alerts.
-
 Users simply enter a keyword and click the Search News button. The app then fetches real-time news data from The Guardian Open News API and dynamically displays the results as neatly styled news cards. Each card includes a headline, image, short description, and a Read More button that redirects users to the full article on the official website.
-
 SweetAlert is used to provide clear feedback—for example, prompting users if the input field is empty, notifying them when no articles are found, or showing error messages if the news cannot be loaded. Bootstrap ensures full responsiveness across devices, while jQuery handles API requests and DOM manipulation efficiently.
-
 Overall, this dashboard demonstrates practical use of APIs, asynchronous data fetching, and modern front-end libraries to create an engaging and real-world news application.
